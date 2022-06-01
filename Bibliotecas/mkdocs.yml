@@ -1,1 +1,19 @@
-site_name: My Docs
+site_name: Distances
+
+theme: readthedocs
+nav:
+  - Principal: 'index.md'
+  - 'Biblioteca faiss':
+      - ¿Que es?: Faiss/Faiss.md
+  
+  - 'Biblioteca ScaNN':
+      - ¿Que es?: ScaNN/Que_es.md
+  
+  - 'Bilbioteca Haystack':
+      - ¿Que es?: Faiss/Faiss.md
+  
+  - 'Biblioteca Annoy':
+      - ¿Que es?: Faiss/Faiss.md
+  
+  - 'Biblioteca Weaviate':
+      - ¿Que es?: Faiss/Faiss.md
